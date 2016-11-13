@@ -19,7 +19,7 @@ Task 2: **The Turn**
 - [ ] The user starts the game with 0 gold and nothing in the pot.
 - [ ] They start the turn with a choice, collect all of the gold in the pot or roll a die.
  - [ ] If the number on the die is greater than 3, then add that number to the pot multiplied by the number of turns it has been since they collected the gold in the pot.
- - [ ] If the number is less than or equal to 3, they lose the amound in the pot multiplied by the number they rolled.
+ - [ ] If the number is less than or equal to 3, they lose the amount in the pot multiplied by the number they rolled.
 
 Task 3: **Scores**
 
