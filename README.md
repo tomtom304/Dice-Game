@@ -41,11 +41,7 @@ The next step in the development of this program is to remove all <del>humans</d
 
 Using my version of the code (`master` branch):
 
-Create any sort of AI (it can be connected directly to my code) that can get score... 
-- [ ] The best possible score in
- - [ ] 1,000 turns 
- - [ ] 1,000,000 turns
-- [ ] Better than humans in 100 moves in a best-out-of-three 
+Create any sort of AI (it can be connected directly to my code) and enter it into one or more of the following categories: 
 
 
 ## Participation
