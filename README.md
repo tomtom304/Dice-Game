@@ -3,7 +3,7 @@
 A simple dice-based game written in Python
 
 
-## Specification
+## Base Game
 
 This game must:
 
@@ -37,9 +37,11 @@ Task 4: **Highscores**
 
 ## Extension: AI
 
-The next step in the development of this program is to remove all human input.
+The next step in the development of this program is to remove all <del>humans</del> human input.
 
-Using any sort of AI, create a program (can be connected to the original to take outputting out of the equation) that can get score... 
+Using my version of the code (`master` branch):
+
+Create any sort of AI (it can be connected directly to my code) that can get score... 
 - [ ] The best possible score in
  - [ ] 1,000 turns 
  - [ ] 1,000,000 turns
