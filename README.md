@@ -33,3 +33,14 @@ Task 4: **Highscores**
 - [ ] The user inputs a name (Less than 20 characters)
 - [ ] They are then shown a list of the top 5 players and their scores along with the user's own name, score and position
 - [ ] When they are finished, they are then taken back to the menu 
+
+
+## Extension: AI
+
+- The next step in the development of this program is to remove all human input.
+
+Using any sort of AI, create a program (can be connected to the original to take outputting out of the equation) that can get score... 
+- [ ] The best possible score in
+ - [ ] 1,000 turns 
+ - [ ] 1,000,000 turns
+- [ ] Better than humans in 100 moves in a best-out-of-three 
