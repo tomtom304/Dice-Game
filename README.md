@@ -35,7 +35,7 @@ Task 4: **Highscores**
 - [ ] When they are finished, they are then taken back to the menu 
 
 
-## Extension: AI
+## AI Competition
 
 The next step in the development of this program is to remove all <del>humans</del> human input.
 
@@ -43,8 +43,16 @@ Using my version of the code (`master` branch):
 
 Create any sort of AI (it can be connected directly to my code) and enter it into one or more of the following categories: 
 
+- Consistently the best score in...
+ - [ ] 1,000 turns
+ - [ ] 1,000,000 turns
+ - [ ] 1,000,000,000 turns
+- [ ] Consistently better than humans in 100 moves in a best-out-of-three
+
+If two AIs can complete one of the tasks then that is written in the fewest lines of code (including any other data files needed) wins.
+
 
 ## Participation
 
-This is availiable to anyone, simply **fork** this repositiory and create your AI. 
-Post your scores for each section of the above checklist on the [`Scoreboard` Issue](https://github.com/fabcooldog/Dice-Game/issues/2)
+This is available to anyone, simply **fork** this repositiory and create your AI. 
+Post your scores for each category on the [`Scoreboard` Issue](https://github.com/fabcooldog/Dice-Game/issues/2)
