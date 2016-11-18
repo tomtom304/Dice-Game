@@ -37,7 +37,7 @@ Task 4: **Highscores**
 
 ## Extension: AI
 
-- The next step in the development of this program is to remove all human input.
+The next step in the development of this program is to remove all human input.
 
 Using any sort of AI, create a program (can be connected to the original to take outputting out of the equation) that can get score... 
 - [ ] The best possible score in
