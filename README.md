@@ -51,4 +51,4 @@ Create any sort of AI (it can be connected directly to my code) that can get sco
 ## Participation
 
 This is availiable to anyone, simply **fork** this repositiory and create your AI. 
-Post your score on the [`Scoreboard` Issue](https://github.com/fabcooldog/Dice-Game/issues/2)
+Post your scores for each section of the above checklist on the [`Scoreboard` Issue](https://github.com/fabcooldog/Dice-Game/issues/2)
