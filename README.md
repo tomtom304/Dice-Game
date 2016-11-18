@@ -46,3 +46,9 @@ Create any sort of AI (it can be connected directly to my code) that can get sco
  - [ ] 1,000 turns 
  - [ ] 1,000,000 turns
 - [ ] Better than humans in 100 moves in a best-out-of-three 
+
+
+## Participation
+
+This is availiable to anyone, simply **fork** this repositiory and create your AI. 
+Post your score on the [`Scoreboard` Issue](https://github.com/fabcooldog/Dice-Game/issues/2)
